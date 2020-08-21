@@ -61,3 +61,11 @@ button {
     padding: 8px;
 }
 
+.email{
+    color: rgb(235, 191, 46);
+    font-family: arial ;
+    text-decoration: none;
+    border: 1px solid black;
+    background: black;
+    padding: 4px;
+}
