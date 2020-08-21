@@ -3,7 +3,7 @@ const search = document.querySelector('input')
 const messageOne = document.querySelector('#m-1')
 const messageTwo = document.querySelector('#m-2')
 
-messageOne.textContent = 'op bolte'      
+messageOne.textContent = 'Search for your location'      
 
 weatherForm.addEventListener('submit', (event) => {
     event.preventDefault()
